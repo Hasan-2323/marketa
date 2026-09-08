@@ -1,2 +1,3 @@
-# marketa
-Marketa - Create your own store and publish ads
+# Marketa
+
+A marketplace app where users can create their own stores and publish product listings.
